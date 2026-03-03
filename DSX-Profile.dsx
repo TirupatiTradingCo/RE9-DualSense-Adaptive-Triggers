@@ -1,0 +1,22 @@
+[Profile]
+Name=RE9 Adaptive Triggers
+Author=TirupatiTradingCo
+Game=Resident Evil Requiem
+
+[UDP]
+Enabled=1
+Port=26780
+ListenForCommands=1
+
+[Triggers]
+LeftResistance=0
+RightResistance=80
+UseGameData=1
+
+[LED]
+UseGameData=1
+Brightness=100
+
+[Gyro]
+Enabled=1
+Sensitivity=1.0
